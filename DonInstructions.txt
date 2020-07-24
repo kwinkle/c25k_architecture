@@ -1,0 +1,11 @@
+Morning Start Up!
+- turn on the robot
+- swap the teachers tablet charger for the robot charger 
+- open teacher tablet; check web supervisor & teacher interface is up
+- open user tablet and check user window is present, put it in the robot tablet holder
+- log on to the main PC, go to the virtual machine window, press up & enter on the command line to run the pepper bring up
+- check tablet connections via rostopic pub speech std_msgs/String 'hello'
+
+Evening Close Down!
+- turn off the robot
+- plug the tablets in to charge  

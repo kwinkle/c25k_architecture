@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StartWindow.qml</file>
+        <file>StartWindowForm.ui.qml</file>
+        <file>MoodWindow.qml</file>
+        <file>MoodWindowForm.ui.qml</file>
+        <file>ActionButton.qml</file>
+        <file>res/great.png</file>
+        <file>res/great_select.png</file>
+        <file>res/notgreat.png</file>
+        <file>res/notgreat_select.png</file>
+        <file>res/ok.png</file>
+        <file>res/ok_select.png</file>
+        <file>main.cpp</file>
+        <file>BasicScreen.qml</file>
+        <file>BasicScreenForm.ui.qml</file>
+        <file>StopButton.qml</file>
+        <file>EmergencyWindow.qml</file>
+        <file>EmergencyWindowForm.ui.qml</file>
+        <file>res/stop.png</file>
+        <file>UserButton.qml</file>
+        <file>res/MB.png</file>
+        <file>res/JW.png</file>
+        <file>res/FB.png</file>
+        <file>res/DP.png</file>
+        <file>res/GB.png</file>
+        <file>res/JF.png</file>
+        <file>res/LB.png</file>
+        <file>res/LT.png</file>
+        <file>res/MR.png</file>
+        <file>res/PT.png</file>
+        <file>res/DB.png</file>
+    </qresource>
+</RCC>

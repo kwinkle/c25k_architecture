@@ -1,0 +1,6 @@
+C25KActionType action
+C25KActionStyle style
+string trigger_state_id
+float32 trigger_timestamp
+int16 duration
+string action_id

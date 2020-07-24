@@ -1,0 +1,19 @@
+launch instructions:
+
+start virtual box:
+-run roscore
+-run pepper_bringup
+
+on main pc:
+clock.py
+state_analyser.py 
+programme_manager.py 
+(control_script.py) - only if doing a control session!
+action_moderator.py
+learner_v3.py
+behaviour_manager.py
+warmup.py
+end_session.py
+./BLEHeartRateLogger.py 
+decode-speed.py  <-- the camera needed for this is harcoded, can change on a hard reset 
+./facialexpression_node -device 0 <-- this device also can change on a hard reset 

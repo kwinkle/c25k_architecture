@@ -1,0 +1,10 @@
+string name
+string user_id
+int8 session_number
+float32 walk_speed_pb
+float32 walk_speed_avg
+float32 run_speed_pb
+float32 run_speed_avg
+int8 resting_heart_rate
+int32 heart_effort_threshold
+string motivator

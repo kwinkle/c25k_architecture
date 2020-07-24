@@ -1,0 +1,76 @@
+# Overall experience (wrt robot) #
+[GB] It's actually been a really enjoyable programme overall, especially in the last few weeks when I'd got mentally and physically accustomed to it.
+[DB] I find the robot annoying over all and looked forward to just seeing and speaking with Don and knowing I am contibuting to important research.
+[DP] For me, a tremendous success. I did not think I would succeed when I started
+[FB] Great! A really enjoyable experience. I suprised myself with what I could do (running wise) and how comfortable I felt. Pepper was motivating and Don was fantastic with Post-run stretching and recovery advice. Both friendly and welcoming.
+[MR] I really enjoyed exercising regularly and becoming stronger throughout the program. I am not sure if Pepper had much influence on my performance though since I am still not sure if Pepper actually reacts to my performance.
+[JF] I've done C25K programmes in the past but this motivated me the most to keep it up and try to do better each time... Pepper was really helpful in the beginning to tell me when to run and walk- later Pepper was useful in helping me keep focus (breathing, shoulders) and to break up the running with motivation. 
+[JW] It was a fantastic experience... for me, it wasn't just about Pepper, but having Don there too. 
+[PT] The combination of Pepper and Don made this experience enjoyable and helped me to stick to it even during the days that I didn't want to... I liked this experience a lot, more that I would have imagined really. 
+[LB] The whole experience has been very enjoyable and has clearly benefitted me tremendously... Pepper was a good instructor and positively motivated my runs.
+
+# Choice of robot to work with again #
+
+## not sure what difference robot makes
+[GB] [on picking purple robot to work with again] I was split between saying this answer and 'not sure', only because I still don't know how much effect having the physical robot there affects my motivation to run. It possibly does, but it's hard to conclusively say that it does.
+[MR] I am honestly not sure if I necessarily need a robot to train... I am not sure if working with a robot actually motivated me more. I think I would've worked as hard if Pepper was an App that just tells you when to run and when to walk.
+
+## didn't like working with robot
+[DB] I find the robot annoying over all and looked forward to just seeing and speaking with Don and knowing I am contibuting to important research
+
+# Robot-supported exercise #
+
+## has potential / more development 
+[MR] I feel like successful robot-supported exercise is possible. However, proper interaction between robot and human needs to be possible for
+that. The robot needs to be able to answer to questions and give more individual feedback.
+[JF] I think it has a lot of potential for motivation if you have a robot that is intelligent and gets to know you- so knows what your fast speeds/heartrates are and could motivate you appropriately as well as being somewhat conversational to break up the run a bit, or play music/podcasts like an Alexa. It would be good to be able to tell a robot what your goals are and then they make a programme for you. Also maybe some sort of games would be a good option
+[JW] Do see a future in robot-supported exercise like this but I think the robot would need to learn more about the individual it was training and draw on that individuals previous data to help push them. I think if Pepper had known about my health concerns about knees/stitches/hips etc it could have offered specific advice or checked in with me every now and then to enquire whether my knee was OK. There was one session where I was very concerned about my knee and Pepper was indifferent to this concern and the resultant comments were less than helpful!
+### can't replace human, but does have role
+[GB] I think robots certainly could have a place in supporting exercise in the future. However, I would be a bit sceptical as to whether a robot
+could ever fully replace the effects of a human trainer, owing to the fact that you know the robot will never have experienced physical pain
+during exercise, and having to push through it to complete your objectives - I think that that's important, but to what extent I'm unsure
+
+## unsure
+[FB] I'm not sure. It worked for a programme like this in terms of having additional support/motivation, however I think I would have felt the same level of motivation etc. with a voice in my ear if I wore headphones whilst running. Having said that, it was nice to be greeted by Pepper and see her dance at the end of some runs. Personally, I prefer more human interaction. I would get more from speaking to someone, like Don, who can respond and react accordingly to what you're saying and what he's observed.
+
+## not at all / prefer human
+[DB] not for me-prefer human interaction... robot interaction isnt really for me, this study has made me realise that I need a human PT
+[MR] To be honest, I enjoy it more to work with a human instructor in classes because I trust the feedback more. Also I like to be able to ask questions about my performance or about technique which I couldn't do with Pepper.
+
+## positive, effective
+[LB] I found this to be positive and could see this working well as an app-based or wearable technology for personalised training on the move or in different locations. I like the idea of a robot on another treadmill behind mine pretending to chase me.
+[DP] My feeelings are entirely possitive. I am confident I would not have completed the course if it was a moble phone app.
+[JW] I did do a couple of sessions away from the gym and found them easier but I think this was partly because I was running more slowly. Having Pepper there and with the goal of running 5k in 30mins I had to push myself harder and faster than running on my own.
+[PT] The robot in my opinion did a great job in helping me achieve the couch to 5k programme. It was a great gym-buddy companion that
+maked me wanting to go to the session and try my best... I liked this experience a lot, more that I would have imagined really.... I believe that this type of exercise assisted by a robot can become a reality soon and it will be ideal for people that want a bit of extra motivation to go to the gym and having there a gym-buddy like Pepper can
+help them do that. Also it is cool as well to say that you exercise with a robot. 
+
+# Role of the robot # <-- this might be more relevant for mutual shaping
+
+## Autonomy of robot 
+[GB] It would appear that Pepper was deciding what comments to make at which points
+[FB] The robot delivered the exercise programme, having been pre-programmed. Don was there to observe and Katie organised the study. Don and Katie's roles were more fluid - giving  dvice/answering questions and rescheduling sessions as necessary, whereas the robot felt quite fixed in what it could do and say as it led each run.
+
+## Don supervising/monitoring
+[GB] It would appear that Pepper was deciding what comments to make at which points, and Don was supervising or monitoring it in some way. 
+[FB] The robot delivered the exercise programme, having been pre-programmed. Don was there to observe.
+
+# Importance of Don's supervision/presence #
+
+## safety/confidence
+[LB] The role of Don assisted this in that having him there meant I could follow the robot's instructions safe in the knowledge that there was some support there should anything go wrong! 
+[DP] Pepper was important in getting me ot run and walk and slowly build up to running for 30 minutes. Don's stretching routines were essential in my committment as a major fear was dropping out becaue of a pulled muscle.
+[JW] I think the human element (i.e. Don)... was vital after sessions when aches and pains caused concern. Don also gave invaluable advice on things such as how to avoid shin splints/knee problems/stitches... I think if it had just been Pepper and me and no other human involved I may not have completed the programme...i.e. Pepper switches off when the treadmill stops but my concerns/aches/pains don't! [note this likely due to his particular health issue of hip replacement]
+[PT] I think I felt more secure having an experienced person like Don whilst I was doing the exercise with Pepper as I could turn to him if I was feeling unwell during the run etc.
+
+## motivational in itself
+[JF] Don's presence overall was also really motivating as he was really encouraging after each run and with the overall programme. 
+[JW] Don and Katie were also vital in providing encouragement and incentive after each session. I think if it had just been Pepper and me and no other human involved I may not have completed the programme...i.e. Pepper switches off when the treadmill stops but my concerns/aches/pains don't!
+[PT] it helped that Don was really encouraging at the end of each session.
+
+## complimentary role to Pepper
+[GB] Don's positive and fun energy was greatly appreciated and it was interesting for me to see how Pepper would develop over the course of the programme.
+[DP] Pepper was important in getting me ot run and walk and slowly build up to running for 30 minutes. Don's stretching routines were essential in my committment as a major fear was dropping out becaue of a pulled muscle.
+[FB] Pepper was motivating and Don was fantastic with post-run stretching and recovery advice. Both friendly and welcoming.
+[JW] For me, it wasn't just about Pepper, but having Don there too. I think the human element (i.e. Don) helped to emphasise the achievement at the end but also was vital after sessions when aches and pains caused concern. Don also gave invaluable advice on things such as how to avoid shin splints/knee problems/stitches, conversations that Pepper was unaware of.
+[PT] The combination of Pepper and Don made this experience enjoyable and helped me to stick to it even during the days that I didn't want to do a run at all. I think I felt more secure having an experienced person like Don whilst I was doing the exercise with Pepper as I could turn to him if I was feeling unwell during the run etc. Also it helped that Don was really encouraging at the end of each session.

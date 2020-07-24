@@ -1,0 +1,38 @@
+When fixing speed in state logger, noticed that programme action progress was sometimes -ve (assume this is just between sessions or tail end of actions etc.). Have fixed this alongside fixing the speed as agreed.
+
+*using programme_action_progress >= 0.2 was returning weird results...turns out that was because I've actually calculated progress as time_remaining/total_time instead of time_spent/total_time. Considered fixing but not really necessary from learning perspective so condition instead becomes programme_action_progress <= 0.8 !
+
+**still something odd about their pb walk speeds (too high), could be arising from some unidentified consequence of issues with programme actions...?
+
+NOTE 
+
+on looking at user_databse csv found some issues in programme times, specifcally some don't seem to match up to session number. Session number: programme time should look something like this:
+
+2 1200
+3 2400
+4 3600
+5 4860
+6 6120
+7 7380
+8 8460
+9 9540
+10 10620
+11 11910
+12 13200
+13 14490
+
+However some people are quite off as follows:
+
+GB session 9, time 8281 (-1259 i.e. 1 session from where should be)
+MR session 8, time 7262 (-1191 i.e. 1 session from where should be)
+JW session 11, time 8313 (-3597 i.e. ~3 sessions from where should be! - prob due to various issues throughout programme...)
+DP session 13, time 13234 (-1247 i.e. 1 session from where should be)
+[MB] expected as she did a session via podcast
+
+Sunday 11pm decision:
+- not going to act on these now as a) I'm tired and still need to regenerate learner b) they should distort learner input signal by 1/27 maximum c) couldn't find obvious cause going through some prev. commits looking to find the discrepency. I wonder if it could have been lost when swtiching between branches during some of the dark days of early learner failures...
+
+NEXT 
+- programme time issue as notes above
+- didn't yet implement a 'flag' style check on the speed for doing a quick sanity check - think it would be better to knock up a jupyter file for quickly looking at the key (i.e. learner input) features 
+- yet to investigate potential for appending prev. action/style to learner input and utilising within learner...

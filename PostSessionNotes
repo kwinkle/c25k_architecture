@@ -1,0 +1,104 @@
+2/9 participants made negative comments on first autonomous session: FB, MR -> repetition, action timing not right
+On working with autonomous for more sessions a further 3/9 also noted some timing/repetition issues: LB, JW, GB  	
+
+
+LB 
+21 [S-KNN] great; pepper was a bit more chatty today
+22 [S-KNN] great; i felt positive with the comments which also seemed more frequent today
+23 [A-KNN] great; good session, similar to last time, pepper was motivational throughout....feels very much as if pepper is aware of certain aspects of my performance...not all the time but definitely at some points which is additionally supportive
+24 [A-KNN] great; felt a little random today...asking how I was doing twice in a row
+25 [CONTROL] great; orange pepper a lot more chatty but ...a lot of repetition...still entirely positive and motivational throughout
+26 [A-KNN] great; pepper was very encouraging throughout. lots of positive comments
+27 [A-KNN] great; some comments were slightly repeated which was slightly distracting
+--> noticed change from MLP to KNN in increased actions (meaning Don's behaviour changed based on suggestions)
+--> noticed some repetition in autonomous but noted felt robot was aware of his performance directly after an auto session
+
+DP 
+24 [S-KNN]
+25 [A-KNN] I don't pay very much attention to Pepper at session 25 compared to 1-15 
+26 [A-KNN] 
+27 [Control] great; this pepper was very different...I did not find it helpful
+--> don't yield any insight
+--> definitely preferred the ML
+
+FB
+19 [S-KNN] ok; couple of phrases didn't need to be so close together
+20 [S-KNN] ok; pepper kept me going and i appreciated her phrases at the beginning, during and end of the run
+21 [S-KNN] ok; i am used to pepper's phrases and having her there. i still wonder what the theory is behind the eyes changing colour depending what she says
+22 [A-KNN] ok; i don't feel pepper added much to this run. she repeated a lot of phrases and not quite at the right points. i do feel attached to her though
+23 [A-KNN] ok; pepper seemed to repeat phrases but I appreciated them as the run went on 
+24 [CONTROL] ok; repeated a set of phrases at the beginning which seemed more towards pushing yourself...in the seconf half...leaned more towards self-love - I would have found it more useful if they were the other way round
+25 [A-KNN] ok; glad to have [ML] robot back today! loving the little dance moves at the end...appreciated Pepper's phrases
+26 [A-KNN] ok; I'm sad that this will be my last run with Pepper!
+--> seems she noted a drop in performance on switch to autonomous
+--> however appreciated and much preferred ML-Auto seeing auto after seeing heuristic!
+
+JF
+21 [S-KNN] great; pepper seemed chattier today & interrupted my thoughts more than usual but was helpful at times 
+22 [S-KNN] great; i liked pepper's messages about not being an easy challenge, doesn't get easier as felt it was ok to feel challenged
+23 [A-KNN]  great; pepper was good at keeping me focussed and reminding me focus on my breathing when relevant
+24 [A-KNN] great
+25 [CONTROL] great; i liked the [heuristic] robot it - it nmatched my mindset today & trying to push myslef harder...i didn't find it that different than [ML] pepper but a bit tougher, but i need more tough love
+26 [A-KNN] great; i was glad i had the orange robot today as i needed pepper to say i could run as hard as i needed without being pushy to make me feel guilty like the purple pepper would have; yesterday i was up for a challenge so glad i had the purple one
+27 [A-KNN] great; i will miss training with pepper
+--> also noticed change from MLP to KNN in increased actions
+--> although she said she preferred Heuristic on final questionnaire (i think?), this gives more detail on why and how not a 'clear win'
+
+JW
+22 [S-KNN] great; pepper did will and encouraged me throughout 
+23 [A-KNN] great; pepper kept me going 
+24 [A-KNN] great; pepper's encouragement today was constant but sometimes not relevant
+25 [CONTROL] great; [Heuristic] pepper seemed friendlier than [ML] pepper...I'm still undecided if there is any difference between them however!
+-->  repetition & mismatching issue (not really learner fault), otherwise can't see much notice of switch to autonomous 
+
+GB
+23 [S-KNN] great; good frequency & variety of comments
+24 [A-KNN] great; pepper was good again today although I think her repeating of coments was higher...but i think i am more used to her no so don't mind
+25 [A-KNN] ok; good session although pepper said something like 'you're almost done' right at the beginning
+26 [CONTROL] not great; i'm not a big fan of the [Heuristic] robot. it repeated two phrases every ~30s...it was quite annoying and difficult to run with. i didn't like the fact it was telling me to slow down from a pace that i was comfortable with, it's repetitiveness and negativity was doing my nut in. It kind of had a slight reverse psychology effect as i upped the speed half way through to try and get it to shut up. Glad I had the [ML] robot
+27 [A-KNN] great; loved having my [ML] robot back! very good session to finish it off
+--> perhaps noticed increased repetition but otherwise ok and nothing no switch to autonomous
+--> strong negative reaction to heuristic
+
+MR
+15[S-KNN] great
+16[S-KNN] ok; a but too much talking for my taste
+...
+18 [S-KNN] ok; i enjoy the long running sessions with pepper, i feel the amount of comments she is giving is reasonable...still find it hard to feel like her comments are actually directed at my performance. they still feel quite generic...i kinda feel lke a mobile app could do the same as pepper. her dancing moves are incredibly cute though
+19 [A-KNN] not great; usually i like pepper's comments at the end of an intense running phase because they are usually quite short, today pepper said long sentences during the last 2-3 minutes and that made it really hard for me to concentrate
+20 [A-KNN] ok; less long comments from Pepper at the end of the running phrase....some of the comments during the cool down were weird
+21 [CONTROL] ok; the [Heuristic] pepper is quite pushy. I kinda liked it but she almost killed me today :P 
+22 [A-KNN] great; I haven't realised how much the [ML] version of pepper actually helps me to keep a positive mindset
+--> drop in performance on switch to autonomy, need to check if action type was wrong or just unlucky with dictionary choices 
+--> check preference given in final questionnaire as seeing ML-Autonomous after Heuristic prompted positive comment about it!
+
+DB
+17 [S-KNN] ok
+18 [A-KNN] ok; 
+19 [A-KNN] ok; yesterday i didn't hear pepper today i was more aware of her but didn't pay much attention
+20 [A-KNN] great; i will be honest i ignore what pepper says
+21 [CONTROL] i hate this robot she is incredibly annoying i cannot think with her talking she just cannot let you think or allow your brain to breathe
+22 [A-KNN] great; robot is a bit dull/not diverse enough
+--> not very engaged with robot (no change on going autonomous) but strong negative reaction to heuristic
+
+PT
+18 [S-KNN] great; thanks pepper! peper kept me going
+19 [A-KNN] great; 
+20 [A-KNN] great; pepper was encouraging as always
+21 [CONTROL] ok; i haven't realise any big differences between the two version... i remember [ML] pepper was doing a little dance at the end of the previous two sessions which was cute and funny
+22 [A-KNN] great; i enjoyed it at the end as i noticed pepper doing a little bit dance of excitement and that made me laugh 
+--> no evidence noticed switch, clear preference for the ML auto/supervised robot mostly based on increased action space (animation action)
+
+X/9 participants either indicated directly they perceived a change in the ML robot's behaviour over the course of the study or left comments suggesting the robot became more personalised.
+
+auto change
+NS - no comment
+Y - I didn't prefer the purple robot in the beginning because I thought it was a bit pushy. After the initial sessions, I felt it included more encouraging/supportive phrases and had a good balance with the phrases designed to push you. They were also well placed within the runs (often towards the end where you might need more motivation).
+N - no comment
+NS - no comment
+Y - t's hard to say whether the robot actually developed or whether my familiarity with it just improved, but it seemed like towards the end it's commenting was at the right frequency, whereas earlier on in the program I thought it was commenting too much or sometimes too little. I also don't know if the types of comments it chose changed, but I certainly found what it said to me more useful at the end than it did at the beginning.
+Y - I think Pepper stopped talking a lot during the long running phases, which I enjoyed. I am not sure though that I just ignored her then.
+NS - I don't think it's behaviour changed but perhaps my perception of the robot changed, i.e. I got the impression today that Purple was more inclined to give comments aimed at my wellbeing rather than comments aimed at working harder. 
+NS - it seemed like it got more helpful in getting me to find a flow
+Y - I think now it is more informed and gives more accurate feedback (i.e.to slow down when I am really tired)
+

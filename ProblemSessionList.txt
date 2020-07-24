@@ -1,0 +1,26 @@
+List of Sessions with issues (to remember for Data Analysis)
+
+Week 1:
+LB Session 1 [CONTROL] control engagement actions failed 
+JW Session 1 [SUPERVISED] tablet supervisor failed resulting in programme & engagement actions failing (Don ran session manually); missing some state logger data
+
+
+Week 2:
+MB Session 3 [SUPERVISED] programme actions failed mid-session (Don finished session manually)
+JF Session 5 [SUPERVISED] no action moderator (Don ran session manually)
+GB Session 5 [CONTROL] missing from state logger (see if can find in older committed versions...?)
+JW Session 3 [SUPERVISED] missing from state logger
+
+Week 3:
+MR Session 3 [SUPERVISED] didn't close down at session end
+
+Week 4:
+LB Session 9 [SUPERVISED] didn't close down at session end 
+
+Week 5:
+Lost data for PT-5 and DB-8 (need to manually update user records with session number/programme time)
+PT-5 and PT-6 session confusion - on 5 control robot was accidentally labelled as supervised and in 6 control script was started too late and no engagement actions were given at all
+GB Session 10 [SUPERVISED] heart rate monitor failed 
+
+Note: Best trained learner with suggest to tablet bugs fixed up and running from JW Session 12 (timestamp >= ...1563375952.25)
+Programme suggested styles were not displayed correctly on tablet (but recorded correctly in data logs - hence only affecting Don's experience of the learner performance) until JF Session 11
